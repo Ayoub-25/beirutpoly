@@ -1,0 +1,20 @@
+# BeirutPoly
+
+**BeirutPoly** is a fictional monopoly simulation built around **Beirut, Lebanon**, where the player controls a dominant business serving the city's market.
+
+The game uses familiar **Beirut locations, neighborhoods, businesses, and consumer behavior** to turn the classic economics of a monopoly into an engaging local scenario.
+
+As the sole major supplier in its market, BeirutPoly faces **downward-sloping demand**, allowing the player to influence the price and quantity it sells. The player must balance:
+
+- 💰 Pricing
+- 📦 Production and operating costs
+- 📈 Customer demand
+- 🏢 Market power
+- 💵 Profit maximization
+- 👥 Consumer welfare
+
+BeirutPoly can be used to demonstrate key economics concepts such as **marginal revenue, marginal cost, profit maximization, consumer surplus, producer surplus, and deadweight loss**, while using Beirut as a familiar and relatable setting.
+
+## Tagline
+
+> **"Own the market. Set the price. Run Beirut."**
